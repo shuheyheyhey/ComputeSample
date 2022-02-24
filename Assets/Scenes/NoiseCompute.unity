@@ -417,6 +417,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -1887517720680090119, guid: 549abf14b8d5547d080bbc972273ff3f,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1887517720680090119, guid: 549abf14b8d5547d080bbc972273ff3f,
+        type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d375f592cc0d143038c1318fb005b3ba, type: 2}
@@ -424,6 +429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 12140_Skull_v3_L2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4391570475356539754, guid: 549abf14b8d5547d080bbc972273ff3f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4391570475356539754, guid: 549abf14b8d5547d080bbc972273ff3f,
         type: 3}
